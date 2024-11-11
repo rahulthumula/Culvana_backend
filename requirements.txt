@@ -1,0 +1,17 @@
+azure-functions
+azure-functions-worker
+azure-cosmos
+azure-ai-formrecognizer
+azure-core
+azure-identity
+openai
+python-dotenv
+aiohttp
+asyncio
+requests
+python-dateutil
+pandas
+numpy
+pytest
+pytest-asyncio
+pytest-cov

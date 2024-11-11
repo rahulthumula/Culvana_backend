@@ -1,0 +1,19 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=culvana8772;AccountKey=1tkmHhqw1SRCPZB8r7sKt1vAn9mRK2AoHOqqgMP1jbMsguU/HKX8f2hEEbMr/0XOGhk/0A5DG5sH+AStPc1HbQ==;EndpointSuffix=core.windows.net",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "COSMOS_ENDPOINT": "https://database-culvana.documents.azure.com:443/",
+      "COSMOS_KEY": "RSu3KnX22BzDoQ7DPiiawfelDpTyEFM4FeOC7ME9NmZ25me7KuqYmjMgjaGxPBuWYBCNXbWS8W0pACDbrN2Jww==",
+      "COSMOS_DATABASE": "InvoicesDB",
+      "COSMOS_CONTAINER": "Invoices",
+      "AZURE_FORM_RECOGNIZER_ENDPOINT": "https://invoiceparsing.cognitiveservices.azure.com/",
+      "AZURE_FORM_RECOGNIZER_KEY": "8e66486a731d4a7eb9e6604a29904a62",
+      "OPENAI_API_KEY": "sk-Y-Nt5ulhe7sLfuDDwzaWQVg9ABdkAg9eASs3bj7PQBT3BlbkFJtB52wuWDODwj_8WHOuyUG4YyLoHVBqplxF_UBjLsgA",
+      "AZURE_OPENAI_ENDPOINT": "https://culvanaopenai.openai.azure.com/",
+      "AZURE_OPENAI_KEY": "212c16de1d704d10bb0563500ad756cf",
+      "AZURE_OPENAI_API_VERSION": "2024-05-13",
+      "AZURE_OPENAI_DEPLOYMENT_NAME": "gpt-4o-2",
+      "AZURE_OPENAI_MODEL_NAME": "gpt-4o"
+    }
+  }
